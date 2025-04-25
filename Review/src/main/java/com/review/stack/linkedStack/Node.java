@@ -1,4 +1,4 @@
-package com.review.linkedStack;
+package com.review.stack.linkedStack;
 
 public class Node<T> {
     T item;

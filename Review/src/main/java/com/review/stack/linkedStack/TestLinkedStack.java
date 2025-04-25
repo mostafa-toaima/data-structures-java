@@ -1,4 +1,4 @@
-package com.review.linkedStack;
+package com.review.stack.linkedStack;
 
 public class TestLinkedStack {
     public static void main(String[] args) {
